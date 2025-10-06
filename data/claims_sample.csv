@@ -1,0 +1,13 @@
+claim_id,branch,line_of_service,is_assignment,received_date,assigned_pm,assigned_date,status,dash_job_id,completed_date,customer,notes
+C-1001,Columbia,Mitigation,Yes,2025-09-22,Alex M,2025-09-22,Completed,DASH-901,2025-09-26,Smith,"Water leak - kitchen"
+C-1002,Columbia,Reconstruction,Yes,2025-09-22,Jamie L,2025-09-23,In Progress,DASH-902,,Jones,"Ceiling repair"
+C-1003,Charleston,Contents,No,2025-09-23,,,"New",,Taylor,"Inventory pickup"
+C-1004,Greenville,Mitigation,Yes,2025-09-23,Alex M,2025-09-24,Completed,DASH-903,2025-09-28,Lee,"Drying equipment"
+C-1005,Charleston,Reconstruction,Yes,2025-09-24,Jamie L,2025-09-25,On Hold,DASH-904,,Patel,"Permit pending"
+C-1006,Columbia,Mitigation,Yes,2025-09-24,Alex M,2025-09-24,Completed,DASH-905,2025-09-27,Nguyen,"Basement"
+C-1007,Greenville,Contents,No,2025-09-25,,,"New",,Martinez,"Pack-out scheduling"
+C-1008,Columbia,Mitigation,Yes,2025-09-25,Jamie L,2025-09-25,In Progress,DASH-906,,Davis,"Hallway"
+C-1009,Charleston,Mitigation,Yes,2025-09-26,Alex M,2025-09-26,Completed,DASH-907,2025-09-30,Wilson,"Bathroom"
+C-1010,Greenville,Reconstruction,Yes,2025-09-26,Jamie L,2025-09-27,In Progress,DASH-908,,Johnson,"Flooring"
+C-1011,Columbia,Mitigation,Yes,2025-09-27,Alex M,2025-09-28,Completed,DASH-909,2025-10-01,Brown,"Garage"
+C-1012,Charleston,Contents,No,2025-09-27,,,"New",,Harris,"Photo inventory"
