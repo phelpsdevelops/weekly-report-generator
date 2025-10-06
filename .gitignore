@@ -1,0 +1,18 @@
+# Python
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Local & editor
+.vscode/
+.idea/
+.DS_Store
+
+# Project outputs
+outputs/
+*.xlsx
